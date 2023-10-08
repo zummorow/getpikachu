@@ -1,0 +1,21 @@
+
+.container{
+    width: 241px;
+    height: 331px;
+    border-radius: 20px;
+    border: 5px solid #CAB55B;
+    background: #E2C86A;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
